@@ -1,7 +1,7 @@
 # lifeunity
 인생유니타교과서 공유
 
-[챕터 3 - Awesome Cartoon Airplanes 파일(Zombie Reaction Hit.fbx) 파일] (https://github.com/araxrlab/lifeunity/blob/master/Awesome%20Cartoon%20Airplanes.unitypackage)
+[챕터 3 - Awesome Cartoon Airplanes 파일](https://github.com/araxrlab/lifeunity/blob/master/Awesome%20Cartoon%20Airplanes.unitypackage)
 
 [챕터 3 - 모바일 조이스틱 입력 대응하기 Virtual Plug and Play 애셋 파일](https://cafe.naver.com/unrealunity/243)
 
