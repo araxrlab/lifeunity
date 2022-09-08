@@ -20,11 +20,11 @@ RenderSettings:
   m_FogDensity: 0.01
   m_LinearFogStart: 0
   m_LinearFogEnd: 300
-  m_AmbientSkyColor: {r: 0.212, g: 0.227, b: 0.259, a: 1}
-  m_AmbientEquatorColor: {r: 0.114, g: 0.125, b: 0.133, a: 1}
-  m_AmbientGroundColor: {r: 0.047, g: 0.043, b: 0.035, a: 1}
+  m_AmbientSkyColor: {r: 0.2874409, g: 0.5520116, b: 0.67244333, a: 1}
+  m_AmbientEquatorColor: {r: 0.04091521, g: 0.13286836, b: 0.2422812, a: 1}
+  m_AmbientGroundColor: {r: 0.046665095, g: 0.06847818, b: 0.07618539, a: 1}
   m_AmbientIntensity: 1
-  m_AmbientMode: 0
+  m_AmbientMode: 1
   m_SubtractiveShadowColor: {r: 0.42, g: 0.478, b: 0.627, a: 1}
   m_SkyboxMaterial: {fileID: 2100000, guid: d31c39a02635df440a5fc4a31d963725, type: 2}
   m_HaloStrength: 0.5
@@ -33667,7 +33667,7 @@ MonoBehaviour:
     ModeOverride: 0
     LensShift: {x: 0, y: 0}
     GateFit: 2
-    m_SensorSize: {x: 2.6177886, y: 1}
+    m_SensorSize: {x: 2.5896227, y: 1}
   m_Transitions:
     m_BlendHint: 0
     m_InheritPosition: 0
