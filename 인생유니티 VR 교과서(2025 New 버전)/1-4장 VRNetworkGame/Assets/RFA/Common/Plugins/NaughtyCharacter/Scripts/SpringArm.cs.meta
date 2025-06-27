@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 279bbf526b16e4e4a8e69c2011560638
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 184801
+  packageName: Female Assassin 3D Real Time Character
+  packageVersion: 1.0
+  assetPath: Assets/RFA/Common/Plugins/NaughtyCharacter/Scripts/SpringArm.cs
+  uploadId: 406284

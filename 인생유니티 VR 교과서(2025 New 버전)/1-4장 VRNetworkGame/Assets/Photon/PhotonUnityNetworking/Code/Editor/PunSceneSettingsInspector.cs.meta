@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 1ad59deacfd0848dcb64a51b0a0eb960
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 130518
+  packageName: Photon Voice 2
+  packageVersion: 2.58
+  assetPath: Assets/Photon/PhotonUnityNetworking/Code/Editor/PunSceneSettingsInspector.cs
+  uploadId: 738583

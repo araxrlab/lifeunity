@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4bcfebc9a2f1074488adedd1fe84e6c9
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 130518
+  packageName: Photon Voice 2
+  packageVersion: 2.58
+  assetPath: Assets/Photon/PhotonUnityNetworking/Code/Editor/Views/PhotonRigidbodyViewEditor.cs
+  uploadId: 738583

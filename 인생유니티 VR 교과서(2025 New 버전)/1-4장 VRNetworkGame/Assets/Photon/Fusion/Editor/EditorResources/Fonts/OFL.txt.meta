@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: db2794fb134f41649947dbdbcac93dee
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 267958
+  packageName: Photon Fusion
+  packageVersion: 2.0.5
+  assetPath: Assets/Photon/Fusion/Editor/EditorResources/Fonts/OFL.txt
+  uploadId: 735720

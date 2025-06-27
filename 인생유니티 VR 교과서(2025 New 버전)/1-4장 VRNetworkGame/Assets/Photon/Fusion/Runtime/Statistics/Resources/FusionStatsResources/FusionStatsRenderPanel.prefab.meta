@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 367c5caf25960d8419724c6c96708538
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 267958
+  packageName: Photon Fusion
+  packageVersion: 2.0.5
+  assetPath: Assets/Photon/Fusion/Runtime/Statistics/Resources/FusionStatsResources/FusionStatsRenderPanel.prefab
+  uploadId: 735720

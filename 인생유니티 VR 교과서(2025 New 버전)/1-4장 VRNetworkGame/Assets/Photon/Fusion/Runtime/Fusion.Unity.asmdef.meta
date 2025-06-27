@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1baf1ffff1031e948b3b228ab3453251
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 267958
+  packageName: Photon Fusion
+  packageVersion: 2.0.5
+  assetPath: Assets/Photon/Fusion/Runtime/Fusion.Unity.asmdef
+  uploadId: 735720

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 72a4f749a85f41c4c9bf79e0f66f8c71
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 267958
+  packageName: Photon Fusion
+  packageVersion: 2.0.5
+  assetPath: Assets/Photon/Fusion/package.json
+  uploadId: 735720

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: db84c499838991343a5a0a419616fcbe
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 267958
+  packageName: Photon Fusion
+  packageVersion: 2.0.5
+  assetPath: Assets/Photon/Fusion/Editor/EditorResources/FusionHub/FusionHubSkin.guiskin
+  uploadId: 735720

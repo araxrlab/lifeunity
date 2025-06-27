@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6b1c317e63a365d7cedd8f214568c08e
+timeCreated: 1605515737
+TextureImporter:
+  serializedVersion: 4
+  bumpmap:
+    externalNormalMap: 1
+  textureType: 1
+  alphaUsage: 1
+AssetOrigin:
+  serializedVersion: 1
+  productId: 184801
+  packageName: Female Assassin 3D Real Time Character
+  packageVersion: 1.0
+  assetPath: Assets/RFA/Common/Textures/Weapon_Normal.tga
+  uploadId: 406284

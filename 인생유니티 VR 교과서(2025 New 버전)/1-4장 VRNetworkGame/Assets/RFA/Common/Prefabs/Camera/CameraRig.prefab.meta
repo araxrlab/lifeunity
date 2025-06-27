@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 80844b2319340044da27db99208a9eac
+timeCreated: 1443265664
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 184801
+  packageName: Female Assassin 3D Real Time Character
+  packageVersion: 1.0
+  assetPath: Assets/RFA/Common/Prefabs/Camera/CameraRig.prefab
+  uploadId: 406284

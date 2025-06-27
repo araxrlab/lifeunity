@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 43daa139de5b4794fb7d8abe8f75bebc
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 267958
+  packageName: Photon Fusion
+  packageVersion: 2.0.5
+  assetPath: Assets/Photon/Fusion/Assemblies/Release/Fusion.Log.dll.release
+  uploadId: 735720

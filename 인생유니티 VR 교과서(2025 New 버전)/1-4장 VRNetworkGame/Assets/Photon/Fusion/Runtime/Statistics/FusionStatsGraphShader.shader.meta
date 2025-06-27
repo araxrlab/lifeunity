@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f723a494700aee146aa96072604b48c0
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 267958
+  packageName: Photon Fusion
+  packageVersion: 2.0.5
+  assetPath: Assets/Photon/Fusion/Runtime/Statistics/FusionStatsGraphShader.shader
+  uploadId: 735720

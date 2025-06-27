@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: dabbbed2a74eac44dac281f20d706ba8
+labels:
+- ExitGames
+- PUN
+- Photon
+- Networking
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+AssetOrigin:
+  serializedVersion: 1
+  productId: 130518
+  packageName: Photon Voice 2
+  packageVersion: 2.58
+  assetPath: Assets/Photon/PhotonUnityNetworking/Code/Editor/PhotonEditor.cs
+  uploadId: 738583

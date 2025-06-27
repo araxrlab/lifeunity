@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d93f3a77b1026635d69cdb6f1f0b5892
+timeCreated: 1605515732
+TextureImporter:
+  serializedVersion: 4
+  textureType: 0
+  alphaUsage: 1
+AssetOrigin:
+  serializedVersion: 1
+  productId: 184801
+  packageName: Female Assassin 3D Real Time Character
+  packageVersion: 1.0
+  assetPath: Assets/RFA/Common/Textures/Head_Specular.tga
+  uploadId: 406284

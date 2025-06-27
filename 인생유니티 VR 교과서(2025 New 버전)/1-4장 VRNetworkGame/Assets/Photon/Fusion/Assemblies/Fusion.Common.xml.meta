@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: abd068f3d134b524f93cd387e3012621
+labels:
+- FusionCodeDoc
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 267958
+  packageName: Photon Fusion
+  packageVersion: 2.0.5
+  assetPath: Assets/Photon/Fusion/Assemblies/Fusion.Common.xml
+  uploadId: 735720

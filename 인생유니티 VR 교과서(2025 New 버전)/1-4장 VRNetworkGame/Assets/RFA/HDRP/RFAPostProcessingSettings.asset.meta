@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ef0b41f8c370f464a94f91192e63529c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 184801
+  packageName: Female Assassin 3D Real Time Character
+  packageVersion: 1.0
+  assetPath: Assets/RFA/HDRP/RFAPostProcessingSettings.asset
+  uploadId: 406284

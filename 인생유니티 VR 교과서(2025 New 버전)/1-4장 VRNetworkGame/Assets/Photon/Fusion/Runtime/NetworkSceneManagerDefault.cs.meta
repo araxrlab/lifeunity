@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 90a93abf1a391964a94e5c139605105b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 267958
+  packageName: Photon Fusion
+  packageVersion: 2.0.5
+  assetPath: Assets/Photon/Fusion/Runtime/NetworkSceneManagerDefault.cs
+  uploadId: 735720

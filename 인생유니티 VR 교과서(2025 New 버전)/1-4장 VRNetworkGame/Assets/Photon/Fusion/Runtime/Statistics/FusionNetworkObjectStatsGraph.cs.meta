@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 6c65e6f8cc0e421195e5884e060e7ead
+timeCreated: 1711029971
+AssetOrigin:
+  serializedVersion: 1
+  productId: 267958
+  packageName: Photon Fusion
+  packageVersion: 2.0.5
+  assetPath: Assets/Photon/Fusion/Runtime/Statistics/FusionNetworkObjectStatsGraph.cs
+  uploadId: 735720

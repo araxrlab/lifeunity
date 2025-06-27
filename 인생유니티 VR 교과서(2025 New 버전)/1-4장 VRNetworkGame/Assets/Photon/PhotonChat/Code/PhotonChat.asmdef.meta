@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 08a110bd598f7604f9519c2d7e1fb3cc
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 130518
+  packageName: Photon Voice 2
+  packageVersion: 2.58
+  assetPath: Assets/Photon/PhotonChat/Code/PhotonChat.asmdef
+  uploadId: 738583

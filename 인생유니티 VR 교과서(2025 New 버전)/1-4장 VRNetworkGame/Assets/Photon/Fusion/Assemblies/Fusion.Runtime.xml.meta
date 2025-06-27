@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d461b7cc07b37504f94b4a901b69e494
+labels:
+- FusionCodeDoc
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 267958
+  packageName: Photon Fusion
+  packageVersion: 2.0.5
+  assetPath: Assets/Photon/Fusion/Assemblies/Fusion.Runtime.xml
+  uploadId: 735720

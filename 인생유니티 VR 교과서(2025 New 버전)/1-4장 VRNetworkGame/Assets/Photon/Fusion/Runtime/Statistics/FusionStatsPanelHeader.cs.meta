@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 0672ffa0bdc147e7b368e081ab5e7285
+timeCreated: 1710192229
+AssetOrigin:
+  serializedVersion: 1
+  productId: 267958
+  packageName: Photon Fusion
+  packageVersion: 2.0.5
+  assetPath: Assets/Photon/Fusion/Runtime/Statistics/FusionStatsPanelHeader.cs
+  uploadId: 735720

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a79c44df6a0eda62c74618d854b229b5
+timeCreated: 1605515736
+TextureImporter:
+  serializedVersion: 4
+  textureType: 0
+  alphaUsage: 1
+AssetOrigin:
+  serializedVersion: 1
+  productId: 184801
+  packageName: Female Assassin 3D Real Time Character
+  packageVersion: 1.0
+  assetPath: Assets/RFA/Common/Textures/Weapon_BaseColor.tga
+  uploadId: 406284

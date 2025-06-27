@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a09170bc25723ba48b6d4d36f6201acd
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 267958
+  packageName: Photon Fusion
+  packageVersion: 2.0.5
+  assetPath: Assets/Photon/Fusion/Runtime/Statistics/Prefabs/StatisticsRenderGraph.prefab
+  uploadId: 735720

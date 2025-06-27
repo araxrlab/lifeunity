@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 20f9b98d6ad29584c912ad547627b2cf
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 267958
+  packageName: Photon Fusion
+  packageVersion: 2.0.5
+  assetPath: Assets/Photon/Fusion/Runtime/Statistics/FusionStatsGraphMaterial.mat
+  uploadId: 735720

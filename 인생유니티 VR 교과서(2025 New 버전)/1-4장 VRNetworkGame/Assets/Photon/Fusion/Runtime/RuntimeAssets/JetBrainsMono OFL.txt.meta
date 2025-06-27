@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 01cd9d77222d74c74a540c1ec3a85c7a
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 267958
+  packageName: Photon Fusion
+  packageVersion: 2.0.5
+  assetPath: Assets/Photon/Fusion/Runtime/RuntimeAssets/JetBrainsMono OFL.txt
+  uploadId: 735720

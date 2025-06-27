@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: cecd4a32eba31cd4393c185e20824bfc
+TextScriptImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 130518
+  packageName: Photon Voice 2
+  packageVersion: 2.58
+  assetPath: Assets/Photon/PhotonUnityNetworking/link.xml
+  uploadId: 738583

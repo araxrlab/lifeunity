@@ -1,0 +1,7 @@
+<WorldCreator Version="2.0">
+  <Textures Preview="preview.png" Tags="dirt;mud" Description="" Publisher="GameTextures" Website="https://www.gametextures.com/" Guid="8da4f429-35fe-400a-bb76-83900b125d91">
+    <Diffuse File="Ground_RockyGrassPlateau_col.png" Time="131898562580000000" />
+    <Normal File="Ground_RockyGrassPlateau_norm.png" Time="131898565300000000" />
+    <Displacement File="" Time="132438195292307840" />
+  </Textures>
+</WorldCreator>

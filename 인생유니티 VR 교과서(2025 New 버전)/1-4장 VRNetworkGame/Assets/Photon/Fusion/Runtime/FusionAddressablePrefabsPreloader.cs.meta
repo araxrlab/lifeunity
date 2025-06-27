@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: ccb29b1c478478c418765bc307a473ca
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 267958
+  packageName: Photon Fusion
+  packageVersion: 2.0.5
+  assetPath: Assets/Photon/Fusion/Runtime/FusionAddressablePrefabsPreloader.cs
+  uploadId: 735720

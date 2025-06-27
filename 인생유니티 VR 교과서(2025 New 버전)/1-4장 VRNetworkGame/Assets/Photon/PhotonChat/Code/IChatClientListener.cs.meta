@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bab7c8053b486e34aa0d4ca99dcbec80
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 130518
+  packageName: Photon Voice 2
+  packageVersion: 2.58
+  assetPath: Assets/Photon/PhotonChat/Code/IChatClientListener.cs
+  uploadId: 738583

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!226 &22600000
+BillboardAsset:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: billboard_2
+  serializedVersion: 2
+  width: 10
+  bottom: 0
+  height: 10
+  imageTexCoords:
+  - {x: 0, y: 0, z: 1, w: 1}
+  vertices:
+  - {x: 1, y: 1}
+  - {x: 1, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 1}
+  indices: 000001000200030000000200
+  material: {fileID: 2100000, guid: 055168952a1c2204aae6d1c94e9cb264, type: 2}

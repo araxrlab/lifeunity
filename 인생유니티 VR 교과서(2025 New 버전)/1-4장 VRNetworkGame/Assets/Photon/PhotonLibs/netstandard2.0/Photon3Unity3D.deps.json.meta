@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a966b98b651e18748abf2829786b5899
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 130518
+  packageName: Photon Voice 2
+  packageVersion: 2.58
+  assetPath: Assets/Photon/PhotonLibs/netstandard2.0/Photon3Unity3D.deps.json
+  uploadId: 738583

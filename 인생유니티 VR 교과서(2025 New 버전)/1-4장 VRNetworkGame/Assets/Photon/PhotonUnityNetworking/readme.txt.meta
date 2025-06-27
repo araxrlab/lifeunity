@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d90864ccbf99d4a449c87472b0a181e8
+labels:
+- ExitGames
+- PUN
+- Photon
+- Networking
+AssetOrigin:
+  serializedVersion: 1
+  productId: 130518
+  packageName: Photon Voice 2
+  packageVersion: 2.58
+  assetPath: Assets/Photon/PhotonUnityNetworking/readme.txt
+  uploadId: 738583

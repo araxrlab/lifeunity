@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5eb508ffb7b7b0f47882f0087a668283
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 130518
+  packageName: Photon Voice 2
+  packageVersion: 2.58
+  assetPath: Assets/Photon/PhotonChat/Code/ChannelWellKnownProperties.cs
+  uploadId: 738583

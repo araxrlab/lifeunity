@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: MarkerLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4663961137729814050
+  m_GuidHigh: 1068891447180124575
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4668117297646424203
+      m_GuidHigh: 7551403326458427544
+    m_SerializedTextureGuid:
+      m_GuidLow: 17232099997854213219
+      m_GuidHigh: 11437712062255115707
+    m_Size: {x: 0.15, y: 0.15}
+    m_SpecifySize: 1
+    m_Name: Cat
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5595452376827708108
+      m_GuidHigh: 7581074645300243595
+    m_SerializedTextureGuid:
+      m_GuidLow: 18029178787161693493
+      m_GuidHigh: 9973578778556312266
+    m_Size: {x: 0.15, y: 0.15}
+    m_SpecifySize: 1
+    m_Name: SCar
+    m_Texture: {fileID: 0}

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: f40f16a0227e5c14293e269c875c0f9b
+labels:
+- ExitGames
+- PUN
+- Photon
+- Networking
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+AssetOrigin:
+  serializedVersion: 1
+  productId: 130518
+  packageName: Photon Voice 2
+  packageVersion: 2.58
+  assetPath: Assets/Photon/PhotonUnityNetworking/Code/PunClasses.cs
+  uploadId: 738583

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2007cbe994ec1441bb4dc0783ee8d1f5
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 267958
+  packageName: Photon Fusion
+  packageVersion: 2.0.5
+  assetPath: Assets/Photon/Fusion/Plugins/NanoSockets/libnanosockets_LICENSE
+  uploadId: 735720

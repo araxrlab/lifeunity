@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8e3a30446d6463e48adea83d18ce9654
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 267958
+  packageName: Photon Fusion
+  packageVersion: 2.0.5
+  assetPath: Assets/Photon/Fusion/Runtime/Statistics/Prefabs/FusionStatsSimpleButton.prefab
+  uploadId: 735720
